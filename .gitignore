@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# tests
+.screenshots
+
+# node
+node_modules
+npm-debug.log
